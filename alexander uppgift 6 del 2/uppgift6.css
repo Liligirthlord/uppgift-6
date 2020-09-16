@@ -1,0 +1,12 @@
+table{
+	width:400px;
+	height:400px;
+}
+table,th,td{
+	border:1px solid black;
+	border-collapse:collapse;
+}
+
+.blue{
+background-color:blue;
+}
